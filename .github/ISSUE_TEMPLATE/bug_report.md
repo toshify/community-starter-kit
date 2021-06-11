@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: 'fix: Prevent crash when clicks help (keep short, use imperative mood)'
 labels: bug
 assignees: ''
-
+projects: 'Development and operations'
 ---
 
 - [ ] I did all of the following:
