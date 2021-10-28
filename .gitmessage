@@ -1,0 +1,28 @@
+feat: Add feature <use present tense imperative mood>
+# └── feat, fix, content, docs, style, refactor, test or infra─────────┤
+
+# Motivation - Why is this change necessary?
+Because
+
+# Impact - What will this change do?
+- add
+
+# Closes/fixes #<issue number>, #<issue number>
+Closes #999991, #999992
+
+
+# ─────────────────────────────────────────────────────────────wrap<=72┘
+
+
+# Examples
+# ─────────────────────────────────────────────────────────────────────┐
+# refactor: Rename varB to audioElement
+#
+# Because the original name is uninformative
+# and make it unnecessarily hard to follow the logic:
+#
+# - improve code readability
+#   - rename varB to audioElement in InstructionsDirective.ts
+#
+# Closes #123
+# ─────────────────────────────────────────────────────────────────────┘
